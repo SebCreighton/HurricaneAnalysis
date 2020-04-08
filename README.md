@@ -1,6 +1,6 @@
 # Hurricane Analysis
 
-This project organises and manipulates data about Category 5 Hurricanes, the strongest hurricanes as rated by their wind speed.  The projected occured as this:
+This CodeAcademy project organises and manipulates data about Category 5 Hurricanes, the strongest hurricanes as rated by their wind speed.  The projected occured as this:
 - To begin, the damages list was updated to convert prefix values to floats and kept "Damages not Recorded".
 - With the new damages list and all other lists, a dictionary was constructed where the keys of the dictionary are the names of the hurricanes, and the values are dictionaries themselves containing a key for each piece of data (Name, Month, Year,Max Sustained Wind, Areas Affected, Damage, Death) about the hurricane.
 - Convert the current dictionary of hurricanes to a new dictionary, where the keys are years and the values are lists containing a dictionary for each hurricane that occurred in that year.
